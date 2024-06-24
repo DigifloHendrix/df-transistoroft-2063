@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/RNBackgroundFetch/RNBackgroundFetch-xcframeworks.sh
+${PODS_ROOT}/../../node_modules/react-native-background-fetch/ios/RNBackgroundFetch/TSBackgroundFetch.xcframework
